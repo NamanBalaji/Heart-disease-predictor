@@ -1,6 +1,6 @@
-# Heart-disease-predictor
-A machine learning model for predicting  if an individual has heart disease. 
-
-Two different models are created 
-1. Based on KNN Algorithm accuracy:84.48%
-2. Random Forest accuracy: 82.45%
+# MAchine Learning Notebooks
+This repository consists of  Machine Learning Notebooks. Datasets are provided in each of the folders above. 
+Algorithms Used:
+1. KNN
+2. Random Forest
+3. K Means
