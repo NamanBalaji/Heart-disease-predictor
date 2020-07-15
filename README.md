@@ -4,3 +4,4 @@ Algorithms Used:
 1. KNN
 2. Random Forest
 3. K Means
+4. Linear Regression
